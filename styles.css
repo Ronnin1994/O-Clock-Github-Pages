@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+footer {
+    background-color: aqua;
+}
